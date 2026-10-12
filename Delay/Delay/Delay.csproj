@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Delay.Core\Delay.Core.csproj" />
+  </ItemGroup>
+
 </Project>
